@@ -1,15 +1,15 @@
 # SendWOL_GUI
 
-このソフトウェアは、Pythonで開発されたGUI上で動作するSendWOLツールです。
+This software is a SendWOL tool that operates on a GUI developed in Python.
 
-## 概要
+## Overview
 
-SendWOLは、Wake-on-LAN（WOL）パケットを送信するためのツールです。GUIを使用して、簡単にネットワーク上のデバイスを起動することができます。
+SendWOL is a tool for sending Wake-on-LAN (WOL) packets. Using the GUI, you can easily wake up devices on the network.
 
-## 使用方法
+## Usage
 
-使い方は直感的で簡単です。GUIを開いて、必要な情報を入力するだけで、WOLパケットを送信できます。
+The usage is intuitive and simple. Just open the GUI, enter the necessary information, and you can send WOL packets.
 
-## 改良について
+## Improvements
 
-このソフトウェアの改良やカスタマイズはご自由に行ってください。ただし、改良を行った場合は、出典元を明らかにしてください。
+Feel free to make improvements or customizations to this software. However, if you make improvements, please make sure to acknowledge the original source.
